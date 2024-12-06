@@ -8,7 +8,6 @@
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: **I love exploring random facts about tech and brainstorming new ideas for fun side projects!**  
 
----
 
 <!---
 yashprogrammers/yashprogrammers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
