@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Student | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Building+MERN+apps+|+Android+Dev+|+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&center=true&vCenter=true&lines=Building+MERN+apps+|+Android+Dev+|+Problem+Solver" />
 </p>
 
 ---
@@ -28,16 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YESHU_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YESHU_USERNAME&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
